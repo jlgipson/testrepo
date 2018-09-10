@@ -1,7 +1,7 @@
 # testrepo
 Hi, This my data science profile
 ```{r , echo=TRUE}
-subject <-c('computer programming', 'math', 'statistics', 'machine learning','domain expertise', 'communications', 'presentation skills', 'data visualization')
+subject <-c('comp prog', 'math', 'stat', 'ML','DE', 'Comm', 'Prest', 'DaVis')
 rank <-c(2,4,4,2,4,4,4,4)
 johnny <-data.frame (subject,rank)
 johnny
